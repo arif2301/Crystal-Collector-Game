@@ -50,13 +50,13 @@ function game () {
     if (userTotal === targetNumber) {
         wins++;
         gameOver = true;
-        alert ("game will restart");
+        alert ("YOU WON!! Game will restart");
         restart ();
     }
     else if (userTotal > targetNumber) {
         losses++;
         gameOver = true;
-        alert ("game will restart");
+        alert ("You lost, try again! Game will restart");
         restart ();
     } 
 

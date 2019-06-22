@@ -42,7 +42,7 @@ function restart () {
     gemFour = getGemNumbers ();
     userTotal = 0;
     targetNumberText.textContent = "The Target Number is : " + targetNumber;
-    //playerTotalText.textContent = "Your total so far is : 0";
+
     }
 
 function game () {
@@ -66,10 +66,8 @@ function game () {
     lossesText.textContent = "Your Losses : " + losses;
 
 }   
-//$(document).ready(function() {
-//game ();
-//});
 
+// game starts here
 restart ();
 
 // click event for each button click. i initally tried to build this into an array so i don't the function 4 times 

@@ -16,7 +16,7 @@ HTML, JAVASCRIPT and CSS were used to set this up
 ![](screenshots/photo2.PNG)
 
 
-* Step 2: Each of the crystals have a randomly selected value. using your deduction skills, get to the target number without going over.
+* Step 2: Each of the crystals have a randomly selected value. Using your deduction skills, get to the target number without going over.
 ![](screenshots/photo3.PNG)
 
 
